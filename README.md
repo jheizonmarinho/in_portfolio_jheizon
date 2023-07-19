@@ -8,8 +8,18 @@
 <h2>
 <P>hoje, dia 24/05/2023 criamos o portifólio acessando o GitHub, com o objetivo de atinjir a nota máxima e aprender a progamar no GitHub.</P>
 </h2>
-
+<h3>Média Ponderada</h3>
 26/05/2023
 Hoje teve uma atividade onde não tive muito sucesso, mas gostei! essa atividade tivemos que fazer uma média ponderada e ele retornava para o log
 https://script.google.com/macros/s/AKfycbxTukQ-WwJqINfhmaoV_opdPZZwMDk0U50EA7IfCwaEg2Jt1-aHPhOIyX-bcyTahTF3/exec
 
+<h3>Projeto Login</h3>
+
+
+<h3>lista de Exercicio</h3>
+
+
+<h3>Projeto livraria [salvando na planilha]</h3>
+
+
+<h3>Projeto lista de Compras</h3>
