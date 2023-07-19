@@ -11,3 +11,5 @@
 
 26/05/2023
 Hoje teve uma atividade onde não tive muito sucesso, mas gostei! essa atividade tivemos que fazer uma média ponderada e ele retornava para o log
+https://script.google.com/macros/s/AKfycbxTukQ-WwJqINfhmaoV_opdPZZwMDk0U50EA7IfCwaEg2Jt1-aHPhOIyX-bcyTahTF3/exec
+
