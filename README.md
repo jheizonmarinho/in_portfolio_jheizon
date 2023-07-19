@@ -10,14 +10,19 @@
 </h2>
 <h3>Média Ponderada</h3>
 26/05/2023
-Hoje teve uma atividade onde não tive muito sucesso, mas gostei! essa atividade tivemos que fazer uma média ponderada e ele retornava para o log
-https://script.google.com/macros/s/AKfycbxTukQ-WwJqINfhmaoV_opdPZZwMDk0U50EA7IfCwaEg2Jt1-aHPhOIyX-bcyTahTF3/exec
+Hoje teve uma atividade onde não tive muito sucesso, mas gostei! essa atividade tivemos que fazer uma média ponderada e ele retornava para o log.
+LINK: https://script.google.com/macros/s/AKfycbxTukQ-WwJqINfhmaoV_opdPZZwMDk0U50EA7IfCwaEg2Jt1-aHPhOIyX-bcyTahTF3/exec
 
 <h3>Projeto Login</h3>
+Nesta aula do dia 02/06/2023 criamos uma área de loguin com objetivo de retonar uma mensagem se deu certo o login ou não, , mas não tive sucesso.
+LINK: https://script.google.com/macros/s/AKfycbwx_hD1yCUzdzRzfLd1FPOohyKuSyu6Q1cwFOlysbKox5kmXeUpcrGDiDYTZ6BK6Q1E4g/exec
 
+<h3>lista de Exercicio</h3>]
+21/06/2023 fizemos esta lista de exerecicios que contia duas questões; a questao um teriamos que fazer um cauculo de uma viajem e o tanto de consumo em litros de gasolina.
+A questão questão dois era o mesmo codigo mas com intuito de gardar o resultado.
+LINK Questão 1: https://script.google.com/macros/s/AKfycbwZKtuOaMvh-9zmlfkhcHmWq6NF1lNBLCIvfrM6TvYBHqF79lVnKFRI4a6DxtVLkdElXA/exec
 
-<h3>lista de Exercicio</h3>
-
+LINK Questão 2: https://script.google.com/macros/s/AKfycbwWOEvrEgkzbSIDNIADfIEqy0dD-iAWOcEhXLrOoajz4BIxS2lkoCrJRM9lGkXtYWVF/exec
 
 <h3>Projeto livraria [salvando na planilha]</h3>
 
